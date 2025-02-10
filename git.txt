@@ -5,3 +5,5 @@ add
 commit (-m)
 checkout (-)
 push(-u origin mian)
+fetch
+pull
