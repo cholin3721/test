@@ -1,0 +1,6 @@
+init
+status
+config --global user.email , username 유저명등록 1회만 하면 됨 )
+add
+commit (-m)
+checkout (-)
