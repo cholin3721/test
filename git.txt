@@ -7,3 +7,5 @@ checkout (-)
 push(-u origin mian)
 fetch
 pull
+branch
+switch
